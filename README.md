@@ -416,7 +416,8 @@ Applications include:
 # 👨‍💻 Author
 
 **SHWETA SINGH**
-Developed as an Industry-Oriented IoT & Environmental Analytics Project for academic learning, portfolio development, and placement preparation.
+
+**Developed as an Industry-Oriented IoT & Environmental Analytics Project for academic learning, portfolio development, and placement preparation.**
 
 ---
 
