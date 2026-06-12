@@ -1,0 +1,14 @@
+import requests
+
+API_KEY = "6214e5de80ca9a4d62698b119d23c0c5"
+
+url = (
+    f"https://api.openweathermap.org/data/2.5/weather"
+    f"?q=Delhi"
+    f"&appid={API_KEY}"
+)
+
+response = requests.get(url)
+
+print(response.status_code)
+print(response.json())
